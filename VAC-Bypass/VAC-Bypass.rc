@@ -68,7 +68,7 @@ BEGIN
         BLOCK "000904b0"
         BEGIN
             VALUE "CompanyName", "danielkrupinski"
-            VALUE "FileDescription", "Valve Anti-Cheat bypass written in C. (only SSE2)"
+            VALUE "FileDescription", "Valve Anti-Cheat bypass written in C."
             VALUE "FileVersion", "6.2.2020.0"
             VALUE "InternalName", "VAC-Bypass.dll"
             VALUE "LegalCopyright", "Compiled by: PlayDay3008; Code by: danielkrupinski"
